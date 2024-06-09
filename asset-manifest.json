@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/News-Bazaar/static/css/main.1052e3c7.css",
+    "main.js": "/News-Bazaar/static/js/main.85d07346.js",
+    "static/js/453.b7a50498.chunk.js": "/News-Bazaar/static/js/453.b7a50498.chunk.js",
+    "static/media/loading.gif": "/News-Bazaar/static/media/loading.a1a996746e5e48352c81.gif",
+    "index.html": "/News-Bazaar/index.html",
+    "main.1052e3c7.css.map": "/News-Bazaar/static/css/main.1052e3c7.css.map",
+    "main.85d07346.js.map": "/News-Bazaar/static/js/main.85d07346.js.map",
+    "453.b7a50498.chunk.js.map": "/News-Bazaar/static/js/453.b7a50498.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1052e3c7.css",
+    "static/js/main.85d07346.js"
+  ]
+}
